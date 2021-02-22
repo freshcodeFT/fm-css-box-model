@@ -1,5 +1,4 @@
 .img{
-  border: 8px solid red;
   width: 400px;
   /* padding: 10px; */
   /*padding-top: 10px;
@@ -14,4 +13,21 @@
   padding: 30px 10px 80px;
   box-sizing: border-box;
   margin: 150px;
+  
+  /*border: 8px solid red;*/
+  /*
+  border-top-color: aqua;
+  border-top-style: solid;
+  border-top-width: 5px;
+  */
+  border-top: 5px solid aqua;
+
+  /*border-bottom-color: rgb(255, 0, 0);
+  border-bottom-style: dashed;
+  border-bottom-width: 10px;*/
+  border-bottom: 10px dashed red;
+  
+  border-left: 15px dotted dodgerblue;
+  border-right: 7px solid greenyellow;
+  
 }
