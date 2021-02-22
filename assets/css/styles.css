@@ -1,23 +1,17 @@
-.main-article{
-  font-size: 1.3em;
-  color: dodgerblue;
-  border: 8px dashed rgb(255, 0, 0);
-  /*
-  border-width: 5px;
-  border-style: solid;
-  border-color: red;
-  */
-}
+.img{
+  border: 8px solid red;
+  width: 400px;
+  /* padding: 10px; */
+  /*padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 40px;*/
 
-.article-header{
-  border: inherit;
-  color: initial;
-}
+  /* padding: 10px 20px 30px 40px;
 
-.article-content{
-  font-size: initial;
-}
-
-.page-link{
-  color: inherit;
+  margin: 50px 30px 40px 60px;
+  margin: 50px; */
+  padding: 30px 10px 80px;
+  box-sizing: border-box;
+  margin: 150px;
 }
