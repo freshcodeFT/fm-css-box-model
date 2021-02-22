@@ -1,0 +1,23 @@
+.main-article{
+  font-size: 1.3em;
+  color: dodgerblue;
+  border: 8px dashed rgb(255, 0, 0);
+  /*
+  border-width: 5px;
+  border-style: solid;
+  border-color: red;
+  */
+}
+
+.article-header{
+  border: inherit;
+  color: initial;
+}
+
+.article-content{
+  font-size: initial;
+}
+
+.page-link{
+  color: inherit;
+}
